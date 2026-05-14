@@ -1,0 +1,9 @@
+{
+  "short_name": "Net Worth",
+  "name": "Net Worth Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070e16",
+  "theme_color": "#070e16",
+  "orientation": "portrait"
+}
